@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://arbab02.github.io/Portfolio/](https://arbab02.github.io/Portfolio/)
 
-- ⚡Physical Activities **Playing Cricket,**
+- ⚡Physical Activities **Playing Cricket, Watching tech & action movies, and exploring new stuffs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
