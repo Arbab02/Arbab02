@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arbab Raheem</h1>
 <h3 align="center">A passionate full-Stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas"/>
 - 🔭 I’m currently working on [Chat-Application](https://github.com/Arbab02/Socket-Chat-App)
 
 - 🌱 I’m currently learning **Angular, C#, ASP. Net Core.**
