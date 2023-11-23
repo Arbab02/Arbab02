@@ -1,4 +1,4 @@
-<img alt="Coding" width="1100" src="https://cc-dam.imgix.net/blog/blog-what-is-jamstack.jpg">
+<img alt="Coding" width="1100" src="https://ik.imagekit.io/ably/ghost/prod/2021/06/jamstack-app-nuxt-strapi-netlify-ably.jpg">
 <h1 align="center">Hi 👋, I'm Arbab Raheem</h1>
 <h3 align="center">A passionate full-Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
